@@ -7,7 +7,7 @@ var path = require('path');
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Raneto Docs',
+  site_title: '寻向知识库',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   base_url: '',
